@@ -102,7 +102,7 @@
 
 #### 3.2.1. Web-панель администрирования — диаграмма компонентов
 
-<img width="1324" height="945" alt="Diagram 1" src="https://github.com/user-attachments/assets/422d537c-80bc-480f-9806-826919729f4d" />
+<img width="1324" height="945" alt="Diagram 1" src="https://github.com/user-attachments/assets/24d4e11d-187a-4e0c-8706-bc989e1c5bc5" />
 
 
 #### 3.2.2. Фоновые сервисы: уведомления — диаграмма компонентов
