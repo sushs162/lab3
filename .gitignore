@@ -1,7 +1,5 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-# Virtual environments
-venv/
-env/
 .venv/
+.ruff_cache/
+*.log
